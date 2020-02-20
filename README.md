@@ -62,6 +62,7 @@ DXC Technology Consumer Service Portal	|	https://dxchr.service-now.com/csp
 EpicCor Software Support |	https://epicorcs.service-now.com/epiccare	
 ESA Earth Observation User Services	|	https://esatellus.service-now.com/csp	
 Gestore Servizi Energetici (Energy Services Manager - Italy)	|	https://supportogse.service-now.com/csm	
+Glidefast | https://glidefast.com
 HCL Customer Support	|	https://hclpnpsupport.service-now.com/csm	
 Organize Cloud Labs	|	https://organizeprod.service-now.com/organize?id=organize_landing	
 ServiceNow Developer Portal	|	https://developer.service-now.com	
