@@ -68,3 +68,9 @@ Organize Cloud Labs	|	https://organizeprod.service-now.com/organize?id=organize_
 ServiceNow Developer Portal	|	https://developer.service-now.com	
 ServiceNow Solution Innovation Library Overview	|	https://sc.service-now.com/snds	
 ServiceNow Portal Templates	|	https://sc.service-now.com/snds?state=template-overview&template=true	
+opentext| https://deloitteconsultingphilippinesdeliverycenterincdemo4.service-now.com/csm/
+EMIS Now | https://www.emisnow.com/csm
+EMIS Now community page | https://www.emisnow.com/csm?id=product_community
+CenterState Bank | https://centerstatebank.service-now.com/csp
+Advanced Disposal | https://adwhc.service-now.com/csp
+YMCA Twin Cities | https://ymcatwincities.service-now.com/csp/
