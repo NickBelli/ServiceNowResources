@@ -55,22 +55,22 @@ US Federal Service Desk	|	https://gsafsd.service-now.com/fsd-gov/home.do
 
 Entity | Site 
 ------------ | -------------
-Basware	|	https://basware.service-now.com/bw	
-CERN |	https://cern.service-now.com/service-portal/	
-Disney+ |	https://help.disneyplus.com/csp	
-DXC Technology Consumer Service Portal	|	https://dxchr.service-now.com/csp	
-EpicCor Software Support |	https://epicorcs.service-now.com/epiccare	
-ESA Earth Observation User Services	|	https://esatellus.service-now.com/csp	
-Gestore Servizi Energetici (Energy Services Manager - Italy)	|	https://supportogse.service-now.com/csm	
-Glidefast | https://glidefast.com
-HCL Customer Support	|	https://hclpnpsupport.service-now.com/csm	
-Organize Cloud Labs	|	https://organizeprod.service-now.com/organize?id=organize_landing	
-ServiceNow Developer Portal	|	https://developer.service-now.com	
-ServiceNow Solution Innovation Library Overview	|	https://sc.service-now.com/snds	
-ServiceNow Portal Templates	|	https://sc.service-now.com/snds?state=template-overview&template=true	
-opentext| https://deloitteconsultingphilippinesdeliverycenterincdemo4.service-now.com/csm/
+Advanced Disposal | https://adwhc.service-now.com/csp
+Basware	|	https://basware.service-now.com/bw
+CenterState Bank | https://centerstatebank.service-now.com/csp
+CERN |	https://cern.service-now.com/service-portal/
+Disney+ |	https://help.disneyplus.com/csp
+DXC Technology Consumer Service Portal	|	https://dxchr.service-now.com/csp
 EMIS Now | https://www.emisnow.com/csm
 EMIS Now community page | https://www.emisnow.com/csm?id=product_community
-CenterState Bank | https://centerstatebank.service-now.com/csp
-Advanced Disposal | https://adwhc.service-now.com/csp
+EpicCor Software Support |	https://epicorcs.service-now.com/epiccare
+ESA Earth Observation User Services	|	https://esatellus.service-now.com/csp
+Gestore Servizi Energetici (Energy Services Manager - Italy)	|	https://supportogse.service-now.com/csm
+Glidefast | https://glidefast.com
+HCL Customer Support	|	https://hclpnpsupport.service-now.com/csm
+opentext| https://deloitteconsultingphilippinesdeliverycenterincdemo4.service-now.com/csm/
+Organize Cloud Labs	|	https://organizeprod.service-now.com/organize?id=organize_landing
+ServiceNow Developer Portal	|	https://developer.service-now.com
+ServiceNow Solution Innovation Library Overview	|	https://sc.service-now.com/snds
+ServiceNow Portal Templates	|	https://sc.service-now.com/snds?state=template-overview&template=true
 YMCA Twin Cities | https://ymcatwincities.service-now.com/csp/
