@@ -10,6 +10,7 @@ This list of public portals is a community effort to aggregate links so other Se
 
 Entity | Site 
 ------------ | ------------- 
+American University | https://help.american.edu
 CalPolyPomona Ask Billy	|	https://cpp.service-now.com/askbilly	
 CalPolyPomona IT Help	|	https://cpp.service-now.com/ehelp	
 CSU Bakersfield	|	https://csub.service-now.com/sp	
