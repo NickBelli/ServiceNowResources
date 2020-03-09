@@ -48,6 +48,7 @@ Entity | Site
 Australian Government ICT Procurement	|	https://ictprocurement.service-now.com/sp
 US Defense Export Control and Compliance System	|	https://deccspmddtc.service-now.com/deccs
 US Dept of Defense SMART Program	|	https://smartscholarshipprod.service-now.com/smart
+US Dept of Labor Workforce Recruitment	|	https://www.wrp.gov/wrp
 US Dept of State Defense Trade Controls	|	https://pmddtcdev.service-now.com/ddtc_public/
 US Dept of State Foreign Services Greivance Board	|	https://regionals.service-now.com/fsgb_public
 US Federal Service Desk	|	https://gsafsd.service-now.com/fsd-gov/home.do
@@ -58,6 +59,7 @@ Entity | Site
 ------------ | -------------
 Advanced Disposal | https://adwhc.service-now.com/csp
 Basware	|	https://basware.service-now.com/bw
+Bluetooth Help and Support	|	https://bluetooth.service-now.com/ess/home.do
 CenterState Bank | https://centerstatebank.service-now.com/csp
 CERN |	https://cern.service-now.com/service-portal/
 Disney+ |	https://help.disneyplus.com/csp
@@ -67,7 +69,6 @@ EMIS Now community page | https://www.emisnow.com/csm?id=product_community
 EpicCor Software Support |	https://epicorcs.service-now.com/epiccare
 ESA Earth Observation User Services	|	https://esatellus.service-now.com/csp
 Gestore Servizi Energetici (Energy Services Manager - Italy)	|	https://supportogse.service-now.com/csm
-Glidefast | https://glidefast.com
 HCL Customer Support	|	https://hclpnpsupport.service-now.com/csm
 opentext| https://deloitteconsultingphilippinesdeliverycenterincdemo4.service-now.com/csm/
 Organize Cloud Labs	|	https://organizeprod.service-now.com/organize?id=organize_landing
