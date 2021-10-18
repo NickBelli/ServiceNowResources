@@ -75,4 +75,3 @@ Organize Cloud Labs	|	https://organizeprod.service-now.com/organize?id=organize_
 ServiceNow Developer Portal	|	https://developer.service-now.com
 ServiceNow Solution Innovation Library Overview	|	https://sc.service-now.com/snds
 ServiceNow Portal Templates	|	https://sc.service-now.com/snds?state=template-overview&template=true
-YMCA Twin Cities | https://ymcatwincities.service-now.com/csp/
