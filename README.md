@@ -14,7 +14,7 @@ American University | https://help.american.edu
 CalPolyPomona Ask Billy	|	https://cpp.service-now.com/askbilly	
 CalPolyPomona IT Help	|	https://cpp.service-now.com/ehelp	
 CSU Bakersfield	|	https://csub.service-now.com/sp	
-Depaul University |	https://depaul.service-now.com/sp
+DePaul University |	https://depaul.service-now.com/sp
 Florida International University IT	|	https://fiu.service-now.com/sp	
 Harvard University IT	|	https://harvard.service-now.com/ithelp	
 Kansas State University	|	https://kstate.service-now.com/its	
