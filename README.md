@@ -50,7 +50,7 @@ Australian Government ICT Procurement	|	https://ictprocurement.service-now.com/s
 US Defense Export Control and Compliance System	|	https://deccspmddtc.service-now.com/deccs
 US Dept of Defense SMART Program	|	https://smartscholarshipprod.service-now.com/smart
 US Dept of Labor Workforce Recruitment	|	https://www.wrp.gov/wrp
-US Dept of State Defense Trade Controls	|	https://pmddtcdev.service-now.com/ddtc_public/
+US Dept of State Defense Trade Controls	|	https://www.pmddtc.state.gov/ddtc_public
 US Dept of State Foreign Services Greivance Board	|	https://regionals.service-now.com/fsgb_public
 US Federal Service Desk	|	https://gsafsd.service-now.com/fsd-gov/home.do
 
