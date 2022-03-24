@@ -24,6 +24,7 @@ Ohio State University IT Service Desk	|	https://osuitsm.service-now.com/selfserv
 Penn State University |	https://pennstate.service-now.com/sp	
 Princeton University |	https://princeton.service-now.com/snap	
 Radford University IT	|	https://radford.service-now.com/itonestop/	
+Rochester Institute of Technology	|	https://help.rit.edu/	
 Salt Lake Community College	|	https://slcc.service-now.com/help/	
 Stanford University |	https://stanford.service-now.com/services	
 University of California, Davis ServiceHub	|	https://ucdavisit.service-now.com/servicehub/	
