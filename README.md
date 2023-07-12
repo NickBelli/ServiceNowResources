@@ -18,6 +18,7 @@ DePaul University |	https://depaul.service-now.com/sp
 Florida International University IT	|	https://fiu.service-now.com/sp	
 Harvard University IT	|	https://harvard.service-now.com/ithelp	
 Kansas State University	|	https://kstate.service-now.com/its	
+North Carolina State University IT Service Portal| https://help.ncsu.edu/sp
 Northern Arizona University	|	https://nau.service-now.com/sp?id=index	
 Northeastern University (No longer public)	|	https://northeastern.service-now.com/sp	
 Ohio State University IT Service Desk	|	https://osuitsm.service-now.com/selfservice/	
